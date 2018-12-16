@@ -53,7 +53,7 @@ Clients ➣ They drink, pee and drink more! But be carefull, if they wait a lot 
 
 Furniture ➣ It increases Burdeo's class.
 
-# Download our game [here:]([Burdeos.zip](https://github.com/FlanStudio/Burdeos/releases/tag/v1.0))
+# Download our game [here:](https://github.com/FlanStudio/Burdeos/releases/tag/v1.0)
 
 ### Version 0.1
 
