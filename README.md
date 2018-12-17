@@ -75,6 +75,10 @@ Furniture ➣ It increases Burdeo's class.
  - Scenario created.
  - Gameplay fixed.
 
+### Version 1.1
+
+ - Qualiy settings adapted to slow computers.
+ 
 ## Project wiki
 
 [https://bitbucket.org/flanstudio_ia/burdeos/wiki/Home](https://bitbucket.org/flanstudio_ia/burdeos/wiki/Home)
