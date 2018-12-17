@@ -99,7 +99,7 @@ Jonathan Molina's Github account
 
 
 ## Burdeos Gameplay
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kHTC68r9sQI&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=kHTC68r9sQI&feature=youtu.be)
+[![YouTube trailer](https://img.youtube.com/vi/kHTC68r9sQI&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=kHTC68r9sQI&feature=youtu.be)
 
 ## About Burdeos...
 If you didn't realise It... Burdeos is a real Pub! It's on Terrassa (Barcelona, Spain), and makes the most tasty beer of the city. They are [here:](https://www.google.com/maps/place/Cafe+Burdeos+Restaurant/@41.5650204,2.0094821,17z/data=!3m1!4b1!4m5!3m4!1s0x12a492c1949761af:0xcbf39c300bf2e45a!8m2!3d41.5650204!4d2.0116708)
