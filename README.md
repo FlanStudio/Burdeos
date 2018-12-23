@@ -113,6 +113,9 @@ If you didn't realise It... Burdeos is a real Pub! It's on Terrassa (Barcelona, 
 
 ## Flan Studio staff
 ![fst](https://user-images.githubusercontent.com/25585362/50057843-59702f00-0170-11e9-82d3-4bb33034a5a6.png)
+  ### Tasks distribution:
+    Jonathan Molina-Prados: 
+    Oriol de Dios: Implementing PCG - Random Num Generator, editor Camera Controls, windows Layout/custom theme, enablig/disabling GameObjects/Components behaviour, AABB system for GameObjects, time Module (Play, Pause, Step, all dt calculation and more time stuff...), Mouse Input functionality in C#, calling C# callback methods, Standard C# variables OnInspector, Serializing/deSerializing public fields in ComponentScripts. 
 
 # Check all Burdeos releases [here](https://bitbucket.org/flanstudio_ia/burdeos/downloads/)
 
